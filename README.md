@@ -101,9 +101,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your-email@example.com](amangarg5990@gmail.com)
+Your Name - [amangarg5990@gmail.com](amangarg5990@gmail.com)
 
-Project Link: [https://github.com/your-github-username/weather-dashboard](https://github.com/Amangarg5990/Check-Weather-Report)
+Project Link: [https://github.com/Amangarg5990/Check-Weather-Report)](https://github.com/Amangarg5990/Check-Weather-Report)
 
 ---
 
