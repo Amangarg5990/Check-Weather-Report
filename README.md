@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-![Weather Dashboard Screenshot](/Image1.png")
+![Weather Dashboard Screenshot](./Image1.png")
 
 ## Description
 
